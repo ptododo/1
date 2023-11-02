@@ -14,8 +14,7 @@ background-size:cover;
 padding-left: 250px;
 padding-top: 100px;
 }
-.wrapper
-{
+wrapper {
 	max-width: 1024px;
 	margin: 0 auto;
 	background-color: brown;
