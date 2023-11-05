@@ -1,5 +1,5 @@
 body {
-	background-color: #a7b5e7;
+	background-color: #c6d1f8;
 }
 
 header {
@@ -24,12 +24,12 @@ ul {
 	margin: 0; /*убираем отступы*/
 	padding-left: 0; /*убираем отступы*/
 	margin-top:0px; /*делаем отступ сверху*/
-	background:rgb(191, 210, 239); /*добавляем фон всему меню*/
+	background:#cacfd8; /*добавляем фон всему меню*/
 	height: 50px; /*задаем высоту*/
   }
   a {
 	text-decoration: none; /*убираем подчеркивание текста ссылок*/
-	background:#FF4444; /*добавляем фон к пункту меню*/
+	background:rgb(245, 243, 184)); /*добавляем фон к пункту меню*/
 	color:#fff; /*меняем цвет ссылок*/
 	padding:0px 15px; /*добавляем отступ*/
 	font-family: arial; /*меняем шрифт*/
@@ -42,7 +42,7 @@ ul {
   
   }
   a:hover {
-	background:#D43737;/*добавляем эффект при наведении*/
+	background:#f6ffc2;/*добавляем эффект при наведении*/
   }
   li {
 	float:left; /*Размещаем список горизонтально для реализации меню*/
