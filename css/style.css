@@ -72,3 +72,12 @@ ul {
 	list-style-type: decimal;
 	height: 200px;
   }
+  .btn {
+    padding: 0.5em 1.5em; /* Поля по вертикали и горизонтали */
+    font-size: 0.9em; /* Размер текста */
+    color: #fff; /* Белый цвет текста */
+    background-color: #67ada9; /* Цвет фона кнопки */
+    border-width: 0; /* Убираем рамку */
+    border-bottom: 4px solid #547b80; /* Линия снизу */
+    border-radius: 0.4em; /* Радиус скругления */
+   }
