@@ -24,12 +24,12 @@ ul {
 	margin: 0; /*убираем отступы*/
 	padding-left: 0; /*убираем отступы*/
 	margin-top:0px; /*делаем отступ сверху*/
-	background:rgb(44, 69, 47), 216, 206; /*добавляем фон всему меню*/
+	background:#2c452f, 216, 206; /*добавляем фон всему меню*/
 	height: 50px; /*задаем высоту*/
   }
   a {
 	text-decoration: none; /*убираем подчеркивание текста ссылок*/
-	background:rgb(52, 58, 53); /*добавляем фон к пункту меню*/
+	background:#8d9894; /*добавляем фон к пункту меню*/
 	color:#fff; /*меняем цвет ссылок*/
 	padding:0px 15px; /*добавляем отступ*/fff
 	font-family: arial; /*меняем шрифт*/
@@ -52,6 +52,6 @@ ul {
 
 	}
 .wrapper-2 {
-		background-color: rgb(141, 152, 148)
+		background-color: #8d9894
 	
 		}
