@@ -1,5 +1,5 @@
 body {
-	background-color: #c6d1f8;
+	background-color: #e2e7f8;
 }
 
 header {
@@ -17,7 +17,7 @@ padding-top: 100px;
 wrapper {
 	max-width: 1024px;
 	margin: 0 auto;
-	background-color: #c6d1f8;
+	background-color: #e2e7f8;
 }
 ul {
 	list-style: none; /*убираем маркеры списка*/
