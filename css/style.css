@@ -47,3 +47,7 @@ ul {
   li {
 	float:left; /*Размещаем список горизонтально для реализации меню*/
   }
+  wrapper-1 {
+	background-color: white
+
+	}
