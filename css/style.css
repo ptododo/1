@@ -24,14 +24,14 @@ ul {
 	margin: 0; /*убираем отступы*/
 	padding-left: 0; /*убираем отступы*/
 	margin-top:0px; /*делаем отступ сверху*/
-	background:#cacfd8; /*добавляем фон всему меню*/
+	background:rgb(44, 69, 47), 216, 206); /*добавляем фон всему меню*/
 	height: 50px; /*задаем высоту*/
   }
   a {
 	text-decoration: none; /*убираем подчеркивание текста ссылок*/
 	background:rgb(245, 243, 184)); /*добавляем фон к пункту меню*/
 	color:#fff; /*меняем цвет ссылок*/
-	padding:0px 15px; /*добавляем отступ*/
+	padding:0px 15px; /*добавляем отступ*/fff
 	font-family: arial; /*меняем шрифт*/
 	line-height:50px; /*ровняем меню по вертикали*/
 	display: block; 
