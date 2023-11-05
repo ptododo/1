@@ -47,6 +47,7 @@ ul {
   li {
 	float:left; /*Размещаем список горизонтально для реализации меню*/
   }
+
 .wrapper-1 {
 	background-color: #d1ddd9
 
@@ -59,3 +60,15 @@ ul {
 		background-color: #d1ddd9
 		
 }
+.wrapper-4 {
+	background-color: #8d9894
+	
+}
+.wrap ol {
+	list-style-position: inside;
+	-moz-column-count: 2; /* Firefox */
+	-webkit-column-count: 2; /* Safari and Chrome */
+	column-count: 2;
+	list-style-type: decimal;
+	height: 200px;
+  }
