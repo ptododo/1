@@ -80,5 +80,6 @@ ul {
     border-width: 0; /* Убираем рамку */
     border-bottom: 4px solid #547b80; /* Линия снизу */
     border-radius: 0.4em; /* Радиус скругления */
-	text-align: center;
+	margin-right:50%;
+	margin-left:50%;
    }
