@@ -48,7 +48,7 @@ ul {
 	float:left; /*Размещаем список горизонтально для реализации меню*/
   }
 .wrapper-1 {
-	background-color: rgb(228, 236, 171)
+	background-color: #d1ddd9
 
 }
 .wrapper-2 {
@@ -56,6 +56,6 @@ ul {
 	
 }
 .wrapper-3 {
-		background-color: rgb(209, 221, 217)
+		background-color: #d1ddd9
 		
 }
