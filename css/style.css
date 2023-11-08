@@ -31,15 +31,14 @@ ul {
 	text-decoration: none; /*убираем подчеркивание текста ссылок*/
 	background:#8d9894; /*добавляем фон к пункту меню*/
 	color:#fff; /*меняем цвет ссылок*/
-	padding:0px 15px; /*добавляем отступ*/fff
+	padding:0px 15px; /*добавляем отступ*/
 	font-family: arial; /*меняем шрифт*/
-	line-height:50px; /*ровняем меню по вертикали*/
+	line-height: 50px; /*ровняем меню по вертикали*/
 	display: block; 
 	border-right: 1px solid #F36262; /*добавляем бордюр справа*/
 	-moz-transition: all 0.3s 0.01s ease; /*делаем плавный переход*/
 	-o-transition: all 0.3s 0.01s ease;
 	-webkit-transition: all 0.3s 0.01s ease;
-  
   }
   a:hover {
 	background:#f6ffc2;/*добавляем эффект при наведении*/
