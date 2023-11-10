@@ -138,7 +138,27 @@ ul {
 	column-gap: 150px;
   }
 
-  .card {
+  .card-1 {
+	break-inside: avoid;
+	page-break-inside: avoid;
+	background-color: rgb(207, 232, 220);
+	border: 2px solid rgb(79, 185, 227);
+	padding: 20px;
+	margin: 0 0 1em 0;
+	margin-top: 40px;
+	margin-left: 20px;
+  }
+  .card-2 {
+	break-inside: avoid;
+	page-break-inside: avoid;
+	background-color: rgb(207, 232, 220);
+	border: 2px solid rgb(79, 185, 227);
+	padding: 20px;
+	margin: 0 0 1em 0;
+	margin-top: 40px;
+	margin-left: 20px;
+  }
+  .card-3 {
 	break-inside: avoid;
 	page-break-inside: avoid;
 	background-color: rgb(207, 232, 220);
