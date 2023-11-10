@@ -160,7 +160,7 @@ ul {
   .card-3 {
 	break-inside: avoid;
 	page-break-inside: avoid;
-	background-color: rgb(207, 232, 220);
+	background-color: rgb(255, 255, 255);
 	border: 2px solid rgb(79, 185, 227);
 	padding: 20px;
 	margin: 0 0 1em 0;
