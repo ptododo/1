@@ -144,7 +144,6 @@ ul {
 	background-color:  rgb(255, 255, 255);
 	border: 2px solid rgb(79, 185, 227);
 	padding: 20px;
-	margin: 0 0 1em 0;
 	margin-top: 40px;
 	margin-left: 20px;
   }
@@ -155,7 +154,6 @@ ul {
 	border: 2px solid rgb(79, 185, 227);
 	padding: 20px;
 	margin-top: 40px;
-	margin-left: 20px;
   }
   .card-3 {
 	break-inside: avoid;
@@ -163,7 +161,6 @@ ul {
 	background-color: rgb(255, 255, 255);
 	border: 2px solid rgb(79, 185, 227);
 	padding: 20px;
-	margin: 0 0 1em 0;
 	margin-top: 40px;
-	margin-left: 20px;
+	margin-right: 20px;
   }
