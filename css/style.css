@@ -133,7 +133,7 @@ ul {
 }
 .container {
 	column-width: 350px;
-	column-gap: 20px;
+	column-gap: 100px;
   }
   
   .card {
