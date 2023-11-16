@@ -218,5 +218,5 @@ ul {
 	transition: 1s cubic-bezier(.165, .84, .44, 1);
  }
  .form-row input[type=submit]:hover {
-	background: rgb(166, 195, 239) 32, 196);
+	background: rgb(166, 195, 239) 32, 196;
  }
