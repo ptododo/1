@@ -145,6 +145,8 @@ ul {
 	border: 2px solid rgb(172, 23, 23);
 	padding: 10px;
     margin: 0 0 1em 0;
+	margin-top: 20px;
+	margin-left: 20px;
  }
 
   .card-2 {
@@ -154,6 +156,8 @@ ul {
 	border: 2px solid rgb(172, 23, 23);
 	padding: 10px;
   margin: 0 0 1em 0;
+  margin-top: 20px;
+  margin-left: auto;
 	
   }
 
@@ -164,5 +168,7 @@ ul {
 	border: 2px solid rgb(172, 23, 23);
 	padding: 10px;
   margin: 0 0 1em 0;
+  margin-top: 20px;
+  margin-right: 20px;
 	
   }
