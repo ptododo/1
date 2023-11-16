@@ -181,7 +181,7 @@ ul {
 	padding: 20px;
 	background: #fffdee;
 	border: 10px solid transparent;
-	border-image: 10 repeating-linear-gradient(135deg, rgb(238, 222, 117), 196, 32, #e2ee93 10px, transparent 10px, transparent 20px, #FBCFDF 20px, #FBCFDF 30px, transparent 30px, transparent 40px);
+	border-image: 10 repeating-linear-gradient(135deg, #eede75, #e2ee93 10px, transparent 10px, transparent 20px, #FBCFDF 20px, #FBCFDF 30px, transparent 30px, transparent 40px);
 	font-family: 'Playfair Display';
 	color: #605756;
  }
@@ -218,5 +218,5 @@ ul {
 	transition: 1s cubic-bezier(.165, .84, .44, 1);
  }
  .form-row input[type=submit]:hover {
-	background: rgb(166, 195, 239) 32, 196;
+	background: #a6c3ef;
  }
