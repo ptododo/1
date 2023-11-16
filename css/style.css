@@ -206,7 +206,7 @@ ul {
  .form-row input[type="submit"] {
 	padding: 10px 20px;
 	margin-top: 10px;
-	background: #F67CA5;
+	background: #8d9894;
 	border-width: 0;
 	cursor: pointer;
 	outline: none;
@@ -218,5 +218,5 @@ ul {
 	transition: 1s cubic-bezier(.165, .84, .44, 1);
  }
  .form-row input[type=submit]:hover {
-	background: #C42061;
+	background: rgb(166, 195, 239) 32, 196);
  }
