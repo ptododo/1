@@ -143,17 +143,17 @@ ul {
 	page-break-inside: avoid;
 	background-color:  rgb(255, 255, 255);
 	border: 2px solid rgb(172, 23, 23)
-	margin-top: 40px;
-	margin-left: 20px;
-  }
+	
+ }
+
   .card-2 {
 	break-inside: avoid;
 	page-break-inside: avoid;
 	background-color:  rgb(255, 255, 255);
 	border: 2px solid rgb(172, 23, 23)
-	padding: 20px;
-	margin-top: 40px;
+
   }
+
   .card-3 {
 	break-inside: avoid;
 	page-break-inside: avoid;
